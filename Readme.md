@@ -8,7 +8,7 @@ A **JavaFX-based desktop application** that automates electricity billing operat
 
 > Watch the full project walkthrough:
 
-**[▶ Click here to watch the demo](YOUR_YOUTUBE_LINK_HERE)**
+**[▶ Click here to watch the demo](https://youtu.be/zxUaX5SdKQc)**
 
 ---
 

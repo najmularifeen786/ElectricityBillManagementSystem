@@ -1,0 +1,12 @@
+643607    unpaid    hasnat              fdf                           22222-2222222-2     0              333            333            7408           RESIDENTIAL    0.00      25-06-2025     600.00    
+728858    unpaid    hasnat              fdf                           22222-2222222-5     333            23323          22990          624716         RESIDENTIAL    20.00     25-06-2025     1200.00   
+761816    unpaid    hasnat              fdf                           22222-2222222-2     333            400            67             -1206136       RESIDENTIAL    20.00     27-06-2025     300.00    
+876802    unpaid    Momin               sdg                           33333-3333333-3     0              300            300            6737           RESIDENTIAL    0.00      27-06-2025     600.00    
+175622    unpaid    taqi                comsats                       77777-7777777-7     0              78             78             -792           RESIDENTIAL    0.00      27-06-2025     300.00    
+796664    unpaid    taqi                comsatat                      77777-7777777-7     0              789            789            36897          COMMERCIAL     0.00      27-06-2025     1200.00   
+899853    unpaid    taqi                comsatsta                     99999-9999999-9     0              78             78             1392           RESIDENTIAL    0.00      27-06-2025     300.00    
+965987    unpaid    taft                jwfl                          11111-1111111-1     0              1000           1000           29485          RESIDENTIAL    0.00      27-06-2025     1200.00   
+43067     unpaid    hasnat              najaja                        88888-8888888-9     0              89             89             1541           RESIDENTIAL    0.00      27-06-2025     300.00    
+982464    paid      najam               lahore                        67777-7667898-7     0              546            546            12367          RESIDENTIAL    20.00     17-07-2025     0.00      
+982464    paid      hasnat              lake city                     12345-6789123-4     0              453            453            9883           COMMERCIAL     20.00     17-07-2025     0.00      
+234746    unpaid    hasnat              lake city                     12345-6789123-4     453            873            420            11900          COMMERCIAL     0.00      17-07-2025     0.00      

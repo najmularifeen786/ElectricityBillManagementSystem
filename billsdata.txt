@@ -10,3 +10,4 @@
 982464    paid      najam               lahore                        67777-7667898-7     0              546            546            12367          RESIDENTIAL    20.00     17-07-2025     0.00      
 982464    paid      hasnat              lake city                     12345-6789123-4     0              453            453            9883           COMMERCIAL     20.00     17-07-2025     0.00      
 234746    unpaid    hasnat              lake city                     12345-6789123-4     453            873            420            11900          COMMERCIAL     0.00      17-07-2025     0.00      
+983497    paid        taft                jwfl                          11111-1111111-1     1000           1500           500            8032           RESIDENTIAL    20.00     10-07-2026     0.00      

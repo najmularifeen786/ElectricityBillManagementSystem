@@ -18,7 +18,7 @@ A **JavaFX-based desktop application** that automates electricity billing operat
 
 Download the latest packaged Windows application directly — no Java or Maven installation needed:
 
-**[⬇ Download Latest Release](https://github.com/najmularifeen786/ElectrictyBillManagementSystem/releases)**
+**[⬇ Download Latest Release](https://github.com/najmularifeen786/ElectricityBillManagementSystem/releases)**
 
 ### Quick Start
 
@@ -94,7 +94,7 @@ Download the latest packaged Windows application directly — no Java or Maven i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/najmularifeen786/ElectrictyBillManagementSystem.git
+   git clone https://github.com/najmularifeen786/ElectricityBillManagementSystem.git
    cd ElectrictyBillManagementSystem
    ```
 

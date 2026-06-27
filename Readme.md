@@ -1,5 +1,16 @@
 # ⚡ Electricity Bill Management System
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-23-orange)](https://www.oracle.com/java/)
+[![JavaFX](https://img.shields.io/badge/JavaFX-17-blue)](https://openjfx.io/)
+[![Maven](https://img.shields.io/badge/Maven-3.9-red)](https://maven.apache.org/)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)]()
+[![Desktop App](https://img.shields.io/badge/Application-Desktop-success)]()
+[![GitHub release](https://img.shields.io/github/v/release/najmularifeen786/ElectrictyBillManagementSystem)](https://github.com/najmularifeen786/ElectrictyBillManagementSystem/releases/latest)
+[![Demo Video](https://img.shields.io/badge/Demo-YouTube-red?logo=youtube)](https://youtu.be/zxUaX5SdKQc)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-success?logo=github)](https://github.com/najmularifeen786/ElectrictyBillManagementSystem/releases/latest)
+
 A **JavaFX-based desktop application** that automates electricity billing operations — from bill generation and discount management to payment tracking and revenue analysis.
 
 ---
